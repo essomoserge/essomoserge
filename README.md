@@ -1,11 +1,13 @@
 👋 Hi, I’m Serge Essomo
 
 🎓 M.Sc. Environmental Resource Management (Energy Economics Focus)
+
 📍 Data Management & Energy Industry Professional | Berlin
 I’m an experienced data and project analyst with over 5 years of professional experience applying data-driven methods to improve process efficiency, operational performance, and decision-making, particularly within the energy and sustainability domains.
 My background combines data analytics, techno-economic analysis, and digital transformation, with hands-on experience in energy systems, smart metering, data management, and process automation. I enjoy working across disciplines, translating complex data into actionable insights, and supporting teams through structured analysis and best practices.
 ________________________________________
 🛠️ Technical Skills
+
 •	Data Analysis: SQL, Python
 •	Visualization & Reporting: Power BI
 •	Automation: UiPath (RPA), Generative AI workflows
@@ -14,6 +16,7 @@ ________________________________________
 •	Languages: German (Fluent), English (Native), French (Native)
 ________________________________________
 🚀 My Interests
+
 •	Data Analytics – Turning complex datasets into actionable insights
 •	Energy & Utilities Analytics – Smart metering, energy systems, infrastructure data
 •	Process Optimization – Automation, KPI tracking, and efficiency improvement
@@ -22,6 +25,7 @@ ________________________________________
 •	Generative AI – Applying GenAI to automate workflows and administrative tasks
 ________________________________________
 📊 What You’ll Find Here
+
 •	Data analysis projects using SQL, Python, and Power BI
 •	Energy and sustainability-focused analytics
 •	Process optimization and automation use cases
@@ -29,6 +33,7 @@ ________________________________________
 •	Experiments with Generative AI for productivity and efficiency
 ________________________________________
 📫 Let’s Connect
+
 •	💼 LinkedIn: https://www.linkedin.com/in/serge-essomo-5946b8142
 •	💼 Kaggle: https://www.kaggle.com/sergio2cm
 •	💼 Github: https://github.com/essomoserge
