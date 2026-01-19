@@ -21,6 +21,7 @@ My background combines **data analytics, techno-economic analysis, and digital t
 ### 📊 Data Analysis & Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 ### 📈 Visualization & Reporting
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
@@ -63,7 +64,7 @@ My background combines **data analytics, techno-economic analysis, and digital t
 
 ## 📊 What You’ll Find Here
 
-- 📈 Data analysis projects using **SQL, Python, and Power BI**
+- 📈 Data analysis projects using **SQL, Python, R, and Power BI**
 - ⚡ Energy and sustainability-focused analytics
 - 🔄 Process optimization and automation use cases
 - 📊 KPI dashboards, reporting workflows, and simulation models
