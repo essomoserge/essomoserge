@@ -34,6 +34,6 @@ ________________________________________
 ________________________________________
 📫 Let’s Connect
 
-•	💼 LinkedIn: https://www.linkedin.com/in/serge-essomo-5946b8142
-•	💼 Kaggle: https://www.kaggle.com/sergio2cm
-•	💼 Github: https://github.com/essomoserge
+•	💼 LinkedIn: https://www.linkedin.com/in/serge-essomo-5946b8142 
+•	💼 Kaggle: https://www.kaggle.com/sergio2cm 
+•	💼 Github: https://github.com/essomoserge 
