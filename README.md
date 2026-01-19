@@ -7,7 +7,6 @@ I’m an experienced data and project analyst with over 5 years of professional 
 My background combines data analytics, techno-economic analysis, and digital transformation, with hands-on experience in energy systems, smart metering, data management, and process automation. I enjoy working across disciplines, translating complex data into actionable insights, and supporting teams through structured analysis and best practices.
 
 🛠️ Technical Skills
-
 •	Data Analysis: SQL, Python
 •	Visualization & Reporting: Power BI
 •	Automation: UiPath (RPA), Generative AI workflows
@@ -16,7 +15,6 @@ My background combines data analytics, techno-economic analysis, and digital tra
 •	Languages: German (Fluent), English (Native), French (Native)
 
 🚀 My Interests
-
 •	Data Analytics – Turning complex datasets into actionable insights
 •	Energy & Utilities Analytics – Smart metering, energy systems, infrastructure data
 •	Process Optimization – Automation, KPI tracking, and efficiency improvement
@@ -25,7 +23,6 @@ My background combines data analytics, techno-economic analysis, and digital tra
 •	Generative AI – Applying GenAI to automate workflows and administrative tasks
 
 📊 What You’ll Find Here
-
 •	Data analysis projects using SQL, Python, and Power BI
 •	Energy and sustainability-focused analytics
 •	Process optimization and automation use cases
@@ -33,7 +30,6 @@ My background combines data analytics, techno-economic analysis, and digital tra
 •	Experiments with Generative AI for productivity and efficiency
 
 📫 Let’s Connect
-
 •	💼 LinkedIn: https://www.linkedin.com/in/serge-essomo-5946b8142 
 •	💼 Kaggle: https://www.kaggle.com/sergio2cm 
 •	💼 Github: https://github.com/essomoserge 
